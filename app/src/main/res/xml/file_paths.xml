@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="APP MIS SITIOS"
+        path="Android/data/com.grupoz3.appmissitios/files/Pictures"/>
+</paths>

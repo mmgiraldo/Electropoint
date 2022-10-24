@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AppMisSitios</string>
+    <string name="mensaje_fab" translatable="false"> Clic en el botón fab</string>
+    <string name="accion_mostrar" translatable="false">Mostrar Lugares</string>
+    <string name="accion_preferencias">Preferencias</string>
+    <string name="accion_acerca_de">Acerca de </string>
+    <string name="accion_salir">Salir</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="comentario" translatable="false">Comentario</string>
+    <string name="nombre" translatable="false">Nombre:</string>
+    <string name="identificar_el_lugar" translatable="false">Algo que identifique el lugar</string>
+    <string name="tipo_lugar" translatable="false">Tipo:</string>
+    <string name="direccion" translatable="false">Dirección:</string>
+    <string name="direccion_lugar" translatable="false">Dirección del lugar:</string>
+    <string name="telefono" translatable="false">Teléfono:</string>
+    <string name="tel_contacto" translatable="false">Teléfono para contactar</string>
+    <string name="url" translatable="false">Url:</string>
+    <string name="web" translatable="false">Página web</string>
+    <string name="notas" translatable="false">Introduce tus notas</string>
+    <string name="hola_mundo">Hola mundo</string>
+    <string name="frase_acercaDe">Esta app ha sido desarrollada en el ciclo 4B de la Misión TIC 2022</string>
+    <string name="elijaLugar" translatable="false">Selección de lugar</string>
+    <string name="nuevaFrase" translatable="false">hola mundo</string>
+    <string name="usuario" translatable="false">Escriba su nombre</string>
+</resources>
